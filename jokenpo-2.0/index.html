@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<link rel="icon" type="imagem/png" href="img/icon.png" />
+	<title>jokenpô</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+	<section class="jogo">
+		<h1 style="text-align-last: center;">PEDRA, PAPEL E TESOURA</h1>
+
+		<img src="img/icon.png" style="float: left; margin-top: -10px;">
+		<h3>Como jogar:</h3>
+		<P >Clique em uma das opções a baixo <b>pedra, papeu ou tesoura</b>, o computador ira sortear uma opção e ira comprar, após isso o resultad será impresso na tela!</P>
+
+
+		
+		<button onclick="pedra()"><img src="img/pd.png" width="40px"></button>
+		<button onclick="papel()"><img src="img/pp.png" width="40px"></button>
+		<button onclick="tesoura()"><img src="img/ts.png" width="40px"></button>
+		<h2><b id="resultado"></b></h2>
+	</section>
+
+
+
+	<script src='jogar.js'></script>
+</body>
+</html>

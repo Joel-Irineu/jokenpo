@@ -1,0 +1,24 @@
+body{
+			color: #fff;
+			background: #262626;
+		}
+		#mao{
+			padding: 5px;
+			border: 1px solid #fff;
+			border-radius: 5px;
+			color: #fff;
+			background: initial;
+		}
+		button{
+			margin-left: 10px;
+			padding: 5px;
+			color: #262626;
+			background: #262626;
+			border-radius: 5px;
+			cursor: pointer;
+			padding: 5px;
+		}
+h2{
+	float: right; 
+	margin-right: 50px;
+}
