@@ -22,14 +22,15 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Ejs](https://ejs.co/)
-- [MySQL](https://www.mysql.com/)
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://www.w3schools.com/css/)
+- [Vanilla JS](https://www.w3schools.com/js/)
 
 
 ## 💻 Projeto
 
-O GuiaPerguntas é um projeto que visa conectar Pessoas que possuem duvidas com pessoas dispostas a sanar tais duvidas, o sistema funciona no estilo registro de perguntas e respostas
+Caso você não saiba, jokenpô é um jogo em que as pessoas jogam com as mãos, escolhendo entre pedra, papel e tesoura.
+E funciona assim: a tesoura corta o papel, mas quebra com a pedra; o papel embrulha a pedra, mas é cortado pela tesoura e a pedra quebra a tesoura e é embrulhada pelo papel.
 
 
 ## :memo: Licença
