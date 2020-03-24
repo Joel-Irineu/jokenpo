@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Joel Irineu :wave: [Meu Portifolio!](https://joel-irineu.github.io/)
+Feito com ♥ by Joel Irineu :wave: [About.me](https://about.me/joel.irineu/getstarted)
